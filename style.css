@@ -154,7 +154,7 @@ nav ul li {
     height: 110vh;
     width: 100%;
     background-color: #f0faf8;
-    background-image: url("/Assets/photo/bg-image.png");
+    background-image: url("photo/bg-image.png");
     position: relative;
     overflow: hidden;
 }
@@ -728,7 +728,7 @@ nav ul li {
     position: relative;
     padding: 110px 100px 80px;
     background-size: cover;
-    background-image: url(/Assets/photo/map.png);
+    background-image: url(photo/map.png);
     background-color: #ffffff;
 }
 
@@ -739,7 +739,7 @@ nav ul li {
     width: 54px;
     height: 190px;
     background-repeat: no-repeat;
-    background-image: url(/Assets/photo/pattern-3.png);
+    background-image: url(photo/pattern-3.png);
 }
 
 .auto-cintainer {
@@ -1412,7 +1412,7 @@ a {
     width: 100%;
     height: 100%;
 
-    background-image: url(/Assets/photo/newsletter.jpg);
+    background-image: url(photo/newsletter.jpg);
     background-size: cover;
 
     margin-bottom: 50px;
